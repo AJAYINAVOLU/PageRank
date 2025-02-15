@@ -5,7 +5,7 @@ Fall 2018
 
 Code author
 -----------
-Venkata LeelaKrishna
+Ajay Kumar Reddy Inavolu
 
 Installation
 ------------
